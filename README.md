@@ -9,3 +9,6 @@
 # Comment
 ## Comment from Robert Chen
 - I have never worked on anything that needs data labeling. After reading the introduction of label studio, I think it is a very interesting and powerful tool given the fact it works with different data types and can be integrated with machine learning. I hope I will have a chance to learn and use it soon.
+
+## Comment from Otis Lu
+- I never knew that Label Studio could be integrated with a machine learning model to provide label predictions or perform continuous active learning. As I gradually got to know label studio, I learned how powerful it is. I hope to have the opportunity to learn label studio in the future.
